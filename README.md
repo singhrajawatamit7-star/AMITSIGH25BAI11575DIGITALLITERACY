@@ -86,12 +86,10 @@ I studied common cyber threats like phishing and online fraud and learned how to
 
 ---
 
-## 🔗 Important Links
-- 📊 **Digital Literacy Quiz:**  
-  https://docs.google.com/forms/d/e/1FAIpQLSdBnEG4wYvHGENBowld9gGOF4Pa5JcQAWWmn3XvjAGLmQa_dw/viewform?usp=publish-editor  
+## 🔗 Important Links 
 
 - 💻 **GitHub Repository:**  
-  https://github.com/krankur897/digital-literacy-project.git  
+  
 
 ---
 
